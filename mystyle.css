@@ -415,7 +415,7 @@ p#yello , #yello {
 
   .title-strip{
     background-color: rgb(97, 93, 93);
-    width: 100vw;
+    width:  98vw;
     height: 60px;
     display: flex;
     flex-direction: row-reverse;
