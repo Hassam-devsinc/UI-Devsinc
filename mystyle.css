@@ -562,9 +562,12 @@ a#explore{
 
 
 @media screen and (max-width:1350px){
-.fas{
+.fas-r{
 display: none;
 }
+.fas-l{
+  display: none;
+  }
 
 }
 
